@@ -7,4 +7,4 @@ Um jogo desenvolvido durante um curso de python que estou fazendo.
 - Assim que entrar em um deles basta escolher o arquivo e dar run.
 - Dentro do jogo á uma palavra para ser adivinhada, e para descobrila você vai colocando letras
 - Obs: Você tem 15 chances para acertar a palavra
-- Caso queira mudar a palavra basta entrar no código e mudar o conteúdo da variavel "palavras"
+- Caso queira mudar a palavra à se adivinhar basta entrar no código e mudar o conteúdo da variavel "palavras"
