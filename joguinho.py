@@ -1,4 +1,4 @@
-palavras = 'suspeito otário'
+palavras = 'Ola Mundo'
 inserida = []
 chances = 15
 
